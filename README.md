@@ -14,6 +14,13 @@ This project focuses on analyzing pizza sales data to derive insights into sales
 - **Tableau**: For visualizing sales data and creating dashboards.
 - **Microsoft SQL Server Management Studio**: For running SQL queries and managing the database.
 
+## Examples
+Here are some examples of the visualizations and insights you can gain from this project:
+
+- **Sales Trends**: Analyze sales trends over different time periods.
+- **Top-Selling Pizzas**: Identify the most popular pizzas and their sales performance.
+- **Customer Demographics**: Understand customer demographics and their purchasing behavior.
+
 ## Getting Started
 
 ### Prerequisites
